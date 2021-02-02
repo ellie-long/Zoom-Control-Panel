@@ -13,7 +13,7 @@
  In order to build this project, you will need:
  * Access to a 3D printer
  * 12 rectangular LA128A push buttons rated at 12V. (If you find 5V ones, even better, though the 12V ones work just fine.) 
- ** test
+   * test
  
 # 3D Printed Case
  There are two files that need to be 3D printed to create the case. They are found in 3D Print/To Print, which contains these \*.stl files for the button panel and the main body.
