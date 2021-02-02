@@ -9,6 +9,12 @@
  * Printing button icons
  * Programming Arduino to use as an HID
  
+# Parts List
+ In order to build this project, you will need:
+ * Access to a 3D printer
+ * 12 rectangular LA128A push buttons rated at 12V. (If you find 5V ones, even better, though the 12V ones work just fine.) 
+ ** test
+ 
 # 3D Printed Case
  There are two files that need to be 3D printed to create the case. They are found in 3D Print/To Print, which contains these \*.stl files for the button panel and the main body.
  These files have been designed to not require supports when printing, though you may want to use a brim. I printed it on a Prusa Mk3S+ using PETG with 0.20mm layer heights.
