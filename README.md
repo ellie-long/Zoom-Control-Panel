@@ -12,11 +12,25 @@
 # Parts List
  In order to build this project, you will need:
  * Access to a 3D printer
+ * An Arduino Mega 2560 board
+   * An optional spare Arduino for uploading HoodLoader2 (https://github.com/NicoHood/HoodLoader2), which is required to use the Mega2560 as a keyboard input 
+ * A 2560 Prototype Circuit Breakout Board PCB
+ * Enough 2.54mm male header pins to mount the breakout board PCB to the Arduino
+   * I used the full groupings of 1x10, 5 1x8, 2 1x18 in mine for stability, though you could get away with just the two 1x18 or a single 2x18
  * 12 rectangular LA128A push buttons rated at 12V
    * (If you find 5V ones, even better, though the 12V ones work just fine.) 
    * This design was made with the 16mm rectangular ones in mind, though others should work as well -- however, the button icons may need to be scaled to fit other sizes
-   * As designed, I used:
-     * 3 Orange Latching Buttons
+   * As designed, I used the following, though you can update it to your own preference:
+     * 4 Orange Latching Switches
+     * 2 Orange Momentary Switches
+     * 2 Red Latching Switches
+     * 3 Green Momentary Switches
+     * 1 Green Latching Switch
+ * A red mushroom LAY37-11ZS push button
+ * 13 10k Ohm Resistors
+ * Various hook-up wires, preferably in multiple colors to keep track of wires
+ * Glossy transparent printable sticker 'paper'
+ * Optional long USB-A or USB extension cable to connect panel to the computer
      
  
 # 3D Printed Case
