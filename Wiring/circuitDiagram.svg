@@ -1,0 +1,2667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1380"
+   height="450"
+   id="svg832"
+   sodipodi:docname="circuitDiagram.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata838">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs836" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1368"
+     inkscape:window-height="850"
+     id="namedview834"
+     showgrid="false"
+     inkscape:zoom="0.83478261"
+     inkscape:cx="694.31786"
+     inkscape:cy="154.08466"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg832" />
+  <text
+     x="1270"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text2">Orange</text>
+  <text
+     x="1170"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text4">Orange</text>
+  <text
+     x="1070"
+     y="180"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text6">Orange</text>
+  <text
+     x="970"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text8">Orange</text>
+  <text
+     x="870"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text10">Orange</text>
+  <text
+     x="780"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text12">Green</text>
+  <text
+     x="690"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text14">Red</text>
+  <text
+     x="370"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text16">Green</text>
+  <text
+     x="270"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text18">Green</text>
+  <text
+     x="590"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text38">Red</text>
+  <text
+     x="460"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text40">Orange</text>
+  <text
+     x="170"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text42">Green</text>
+  <text
+     x="100"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text44">End Call</text>
+  <text
+     x="1200"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text46">Mute Me</text>
+  <text
+     x="1290"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text48">Mute All</text>
+  <text
+     x="1100"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text50">Camera</text>
+  <text
+     x="1000"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text52">Video</text>
+  <text
+     x="900"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text54">Pause</text>
+  <text
+     x="890"
+     y="130"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text56">Screen Share</text>
+  <text
+     x="790"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text58">Screen Share</text>
+  <text
+     x="700"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text60">Pause</text>
+  <text
+     x="700"
+     y="130"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text62">Record</text>
+  <text
+     x="600"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text64">Record</text>
+  <text
+     x="510"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text66">Reset</text>
+  <text
+     x="400"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text68">Gallery</text>
+  <text
+     x="290"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text70">Participants</text>
+  <text
+     x="210"
+     y="140"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text72">Chat</text>
+  <text
+     x="60"
+     y="200"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text74">Button</text>
+  <text
+     x="50"
+     y="190"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text76">Mushroom</text>
+  <text
+     x="70"
+     y="180"
+     style="font-size:11px;font-family:Arial;text-anchor:start"
+     dominant-baseline="middle"
+     id="text78">Red</text>
+  <line
+     x1="1320"
+     y1="390"
+     x2="1320"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line80" />
+  <text
+     x="1292"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text82">53</text>
+  <line
+     x1="1303"
+     y1="400"
+     x2="1320"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line84" />
+  <circle
+     cx="1300"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse86"
+     r="3" />
+  <line
+     x1="1320"
+     y1="320"
+     x2="1320"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line88" />
+  <line
+     x1="1320"
+     y1="390"
+     x2="1320"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line90" />
+  <path
+     d="m 1320,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path92" />
+  <path
+     d="m 1320,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path94" />
+  <path
+     d="m 1320,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path96" />
+  <line
+     x1="1220"
+     y1="390"
+     x2="1220"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line98" />
+  <text
+     x="1192"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text100">51</text>
+  <line
+     x1="1203"
+     y1="400"
+     x2="1220"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line102" />
+  <circle
+     cx="1200"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse104"
+     r="3" />
+  <line
+     x1="1220"
+     y1="320"
+     x2="1220"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line106" />
+  <line
+     x1="1220"
+     y1="390"
+     x2="1220"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line108" />
+  <path
+     d="m 1220,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path110" />
+  <path
+     d="m 1220,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path112" />
+  <path
+     d="m 1220,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path114" />
+  <line
+     x1="1120"
+     y1="390"
+     x2="1120"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line116" />
+  <text
+     x="1092"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text118">49</text>
+  <line
+     x1="1103"
+     y1="400"
+     x2="1120"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line120" />
+  <circle
+     cx="1100"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse122"
+     r="3" />
+  <line
+     x1="1120"
+     y1="320"
+     x2="1120"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line124" />
+  <line
+     x1="1120"
+     y1="390"
+     x2="1120"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line126" />
+  <path
+     d="m 1120,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path128" />
+  <path
+     d="m 1120,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path130" />
+  <path
+     d="m 1120,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path132" />
+  <line
+     x1="1020"
+     y1="390"
+     x2="1020"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line134" />
+  <text
+     x="992"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text136">47</text>
+  <line
+     x1="1003"
+     y1="400"
+     x2="1020"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line138" />
+  <circle
+     cx="1000"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse140"
+     r="3" />
+  <line
+     x1="1020"
+     y1="320"
+     x2="1020"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line142" />
+  <line
+     x1="1020"
+     y1="390"
+     x2="1020"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line144" />
+  <path
+     d="m 1020,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path146" />
+  <path
+     d="m 1020,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path148" />
+  <path
+     d="m 1020,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path150" />
+  <line
+     x1="920"
+     y1="390"
+     x2="920"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line152" />
+  <text
+     x="892"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text154">45</text>
+  <line
+     x1="903"
+     y1="400"
+     x2="920"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line156" />
+  <circle
+     cx="900"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse158"
+     r="3" />
+  <line
+     x1="920"
+     y1="320"
+     x2="920"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line160" />
+  <line
+     x1="920"
+     y1="390"
+     x2="920"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line162" />
+  <path
+     d="m 920,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path164" />
+  <path
+     d="m 920,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path166" />
+  <path
+     d="m 920,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path168" />
+  <line
+     x1="820"
+     y1="390"
+     x2="820"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line170" />
+  <text
+     x="792"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text172">43</text>
+  <line
+     x1="803"
+     y1="400"
+     x2="820"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line174" />
+  <circle
+     cx="800"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse176"
+     r="3" />
+  <line
+     x1="820"
+     y1="320"
+     x2="820"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line178" />
+  <line
+     x1="820"
+     y1="390"
+     x2="820"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line180" />
+  <path
+     d="m 820,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path182" />
+  <path
+     d="m 820,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path184" />
+  <path
+     d="m 820,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path186" />
+  <line
+     x1="720"
+     y1="390"
+     x2="720"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line188" />
+  <text
+     x="692"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text190">41</text>
+  <line
+     x1="703"
+     y1="400"
+     x2="720"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line192" />
+  <circle
+     cx="700"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse194"
+     r="3" />
+  <line
+     x1="720"
+     y1="320"
+     x2="720"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line196" />
+  <line
+     x1="720"
+     y1="390"
+     x2="720"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line198" />
+  <path
+     d="m 720,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path200" />
+  <path
+     d="m 720,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path202" />
+  <path
+     d="m 720,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path204" />
+  <line
+     x1="620"
+     y1="390"
+     x2="620"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line206" />
+  <text
+     x="592"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text208">39</text>
+  <line
+     x1="603"
+     y1="400"
+     x2="620"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line210" />
+  <circle
+     cx="600"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse212"
+     r="3" />
+  <line
+     x1="620"
+     y1="320"
+     x2="620"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line214" />
+  <line
+     x1="620"
+     y1="390"
+     x2="620"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line216" />
+  <path
+     d="m 620,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path218" />
+  <path
+     d="m 620,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path220" />
+  <path
+     d="m 620,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path222" />
+  <line
+     x1="520"
+     y1="390"
+     x2="520"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line224" />
+  <text
+     x="492"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text226">37</text>
+  <line
+     x1="503"
+     y1="400"
+     x2="520"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line228" />
+  <circle
+     cx="500"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse230"
+     r="3" />
+  <line
+     x1="520"
+     y1="320"
+     x2="520"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line232" />
+  <line
+     x1="520"
+     y1="390"
+     x2="520"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line234" />
+  <path
+     d="m 520,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path236" />
+  <path
+     d="m 520,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path238" />
+  <path
+     d="m 520,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path240" />
+  <line
+     x1="420"
+     y1="390"
+     x2="420"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line242" />
+  <text
+     x="392"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text244">35</text>
+  <line
+     x1="403"
+     y1="400"
+     x2="420"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line246" />
+  <circle
+     cx="400"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse248"
+     r="3" />
+  <line
+     x1="420"
+     y1="320"
+     x2="420"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line250" />
+  <line
+     x1="420"
+     y1="390"
+     x2="420"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line252" />
+  <path
+     d="m 420,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path254" />
+  <path
+     d="m 420,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path256" />
+  <path
+     d="m 420,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path258" />
+  <line
+     x1="320"
+     y1="390"
+     x2="320"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line260" />
+  <text
+     x="292"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text262">33</text>
+  <line
+     x1="303"
+     y1="400"
+     x2="320"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line264" />
+  <circle
+     cx="300"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse266"
+     r="3" />
+  <line
+     x1="320"
+     y1="320"
+     x2="320"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line268" />
+  <line
+     x1="320"
+     y1="390"
+     x2="320"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line270" />
+  <path
+     d="m 320,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path272" />
+  <path
+     d="m 320,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path274" />
+  <path
+     d="m 320,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path276" />
+  <line
+     x1="220"
+     y1="390"
+     x2="220"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line278" />
+  <text
+     x="192"
+     y="400"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text280">31</text>
+  <line
+     x1="203"
+     y1="400"
+     x2="220"
+     y2="400"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line282" />
+  <circle
+     cx="200"
+     cy="400"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse284"
+     r="3" />
+  <line
+     x1="220"
+     y1="320"
+     x2="220"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line286" />
+  <line
+     x1="1320"
+     y1="150"
+     x2="1320"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line288" />
+  <line
+     x1="1320"
+     y1="180"
+     x2="1320"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line290" />
+  <line
+     x1="1320"
+     y1="209"
+     x2="1320"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line292" />
+  <circle
+     cx="1320"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse294"
+     r="3" />
+  <circle
+     cx="1320"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse296"
+     r="3" />
+  <line
+     x1="1318"
+     y1="187"
+     x2="1312"
+     y2="204"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line298" />
+  <line
+     x1="1220"
+     y1="150"
+     x2="1220"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line300" />
+  <line
+     x1="1220"
+     y1="180"
+     x2="1220"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line302" />
+  <line
+     x1="1220"
+     y1="209"
+     x2="1220"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line304" />
+  <circle
+     cx="1220"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse306"
+     r="3" />
+  <circle
+     cx="1220"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse308"
+     r="3" />
+  <line
+     x1="1218"
+     y1="187"
+     x2="1212"
+     y2="204"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line310" />
+  <line
+     x1="1120"
+     y1="150"
+     x2="1120"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line312" />
+  <line
+     x1="1120"
+     y1="180"
+     x2="1120"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line314" />
+  <line
+     x1="1120"
+     y1="209"
+     x2="1120"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line316" />
+  <circle
+     cx="1120"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse318"
+     r="3" />
+  <circle
+     cx="1120"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse320"
+     r="3" />
+  <line
+     x1="1112"
+     y1="183"
+     x2="1112"
+     y2="207"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line322" />
+  <line
+     x1="1106"
+     y1="189"
+     x2="1106"
+     y2="201"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line324" />
+  <line
+     x1="1106"
+     y1="195"
+     x2="1112"
+     y2="195"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line326" />
+  <line
+     x1="1020"
+     y1="150"
+     x2="1020"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line328" />
+  <line
+     x1="1020"
+     y1="180"
+     x2="1020"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line330" />
+  <line
+     x1="1020"
+     y1="209"
+     x2="1020"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line332" />
+  <circle
+     cx="1020"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse334"
+     r="3" />
+  <circle
+     cx="1020"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse336"
+     r="3" />
+  <line
+     x1="1018"
+     y1="187"
+     x2="1012"
+     y2="204"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line338" />
+  <line
+     x1="920"
+     y1="150"
+     x2="920"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line340" />
+  <line
+     x1="920"
+     y1="180"
+     x2="920"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line342" />
+  <line
+     x1="920"
+     y1="209"
+     x2="920"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line344" />
+  <circle
+     cx="920"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse346"
+     r="3" />
+  <circle
+     cx="920"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse348"
+     r="3" />
+  <line
+     x1="918"
+     y1="187"
+     x2="912"
+     y2="204"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line350" />
+  <line
+     x1="820"
+     y1="150"
+     x2="820"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line352" />
+  <line
+     x1="820"
+     y1="180"
+     x2="820"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line354" />
+  <line
+     x1="820"
+     y1="209"
+     x2="820"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line356" />
+  <circle
+     cx="820"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse358"
+     r="3" />
+  <circle
+     cx="820"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse360"
+     r="3" />
+  <line
+     x1="818"
+     y1="187"
+     x2="812"
+     y2="204"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line362" />
+  <line
+     x1="520"
+     y1="150"
+     x2="520"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line364" />
+  <line
+     x1="520"
+     y1="180"
+     x2="520"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line366" />
+  <line
+     x1="520"
+     y1="209"
+     x2="520"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line368" />
+  <circle
+     cx="520"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse370"
+     r="3" />
+  <circle
+     cx="520"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse372"
+     r="3" />
+  <line
+     x1="512"
+     y1="183"
+     x2="512"
+     y2="207"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line374" />
+  <line
+     x1="506"
+     y1="189"
+     x2="506"
+     y2="201"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line376" />
+  <line
+     x1="506"
+     y1="195"
+     x2="512"
+     y2="195"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line378" />
+  <line
+     x1="620"
+     y1="150"
+     x2="620"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line380" />
+  <line
+     x1="720"
+     y1="150"
+     x2="720"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line382" />
+  <line
+     x1="420"
+     y1="150"
+     x2="420"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line384" />
+  <line
+     x1="420"
+     y1="180"
+     x2="420"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line386" />
+  <line
+     x1="420"
+     y1="209"
+     x2="420"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line388" />
+  <circle
+     cx="420"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse390"
+     r="3" />
+  <circle
+     cx="420"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse392"
+     r="3" />
+  <line
+     x1="412"
+     y1="183"
+     x2="412"
+     y2="207"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line394" />
+  <line
+     x1="406"
+     y1="189"
+     x2="406"
+     y2="201"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line396" />
+  <line
+     x1="406"
+     y1="195"
+     x2="412"
+     y2="195"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line398" />
+  <line
+     x1="320"
+     y1="150"
+     x2="320"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line400" />
+  <line
+     x1="320"
+     y1="180"
+     x2="320"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line402" />
+  <line
+     x1="320"
+     y1="209"
+     x2="320"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line404" />
+  <circle
+     cx="320"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse406"
+     r="3" />
+  <circle
+     cx="320"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse408"
+     r="3" />
+  <line
+     x1="312"
+     y1="183"
+     x2="312"
+     y2="207"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line410" />
+  <line
+     x1="306"
+     y1="189"
+     x2="306"
+     y2="201"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line412" />
+  <line
+     x1="306"
+     y1="195"
+     x2="312"
+     y2="195"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line414" />
+  <line
+     x1="220"
+     y1="150"
+     x2="220"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line416" />
+  <line
+     x1="220"
+     y1="180"
+     x2="220"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line418" />
+  <line
+     x1="220"
+     y1="209"
+     x2="220"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line420" />
+  <circle
+     cx="220"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse422"
+     r="3" />
+  <circle
+     cx="220"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse424"
+     r="3" />
+  <line
+     x1="212"
+     y1="183"
+     x2="212"
+     y2="207"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line426" />
+  <line
+     x1="206"
+     y1="189"
+     x2="206"
+     y2="201"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line428" />
+  <line
+     x1="206"
+     y1="195"
+     x2="212"
+     y2="195"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line430" />
+  <line
+     x1="1320"
+     y1="310"
+     x2="1320"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line432" />
+  <line
+     x1="1320"
+     y1="250"
+     x2="1320"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line434" />
+  <line
+     x1="1320"
+     y1="210"
+     x2="1320"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line436" />
+  <text
+     x="1292"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text438">52</text>
+  <line
+     x1="1303"
+     y1="250"
+     x2="1320"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line440" />
+  <circle
+     cx="1300"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse442"
+     r="3" />
+  <line
+     x1="1320"
+     y1="260"
+     x2="1320"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line444" />
+  <line
+     x1="1320"
+     y1="305"
+     x2="1320"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line446" />
+  <path
+     d="m 1320,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path448" />
+  <text
+     x="1306"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text450">10 kΩ</text>
+  <line
+     x1="1220"
+     y1="310"
+     x2="1220"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line452" />
+  <line
+     x1="1220"
+     y1="250"
+     x2="1220"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line454" />
+  <line
+     x1="1220"
+     y1="210"
+     x2="1220"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line456" />
+  <text
+     x="1192"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text458">50</text>
+  <line
+     x1="1203"
+     y1="250"
+     x2="1220"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line460" />
+  <circle
+     cx="1200"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse462"
+     r="3" />
+  <line
+     x1="1220"
+     y1="260"
+     x2="1220"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line464" />
+  <line
+     x1="1220"
+     y1="305"
+     x2="1220"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line466" />
+  <path
+     d="m 1220,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path468" />
+  <text
+     x="1206"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text470">10 kΩ</text>
+  <line
+     x1="1120"
+     y1="310"
+     x2="1120"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line472" />
+  <line
+     x1="1120"
+     y1="250"
+     x2="1120"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line474" />
+  <line
+     x1="1120"
+     y1="210"
+     x2="1120"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line476" />
+  <text
+     x="1092"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text478">48</text>
+  <line
+     x1="1103"
+     y1="250"
+     x2="1120"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line480" />
+  <circle
+     cx="1100"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse482"
+     r="3" />
+  <line
+     x1="1120"
+     y1="260"
+     x2="1120"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line484" />
+  <line
+     x1="1120"
+     y1="305"
+     x2="1120"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line486" />
+  <path
+     d="m 1120,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path488" />
+  <text
+     x="1106"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text490">10 kΩ</text>
+  <line
+     x1="1020"
+     y1="310"
+     x2="1020"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line492" />
+  <line
+     x1="1020"
+     y1="250"
+     x2="1020"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line494" />
+  <line
+     x1="1020"
+     y1="210"
+     x2="1020"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line496" />
+  <text
+     x="992"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text498">46</text>
+  <line
+     x1="1003"
+     y1="250"
+     x2="1020"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line500" />
+  <circle
+     cx="1000"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse502"
+     r="3" />
+  <line
+     x1="1020"
+     y1="260"
+     x2="1020"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line504" />
+  <line
+     x1="1020"
+     y1="305"
+     x2="1020"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line506" />
+  <path
+     d="m 1020,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path508" />
+  <text
+     x="1006"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text510">10 kΩ</text>
+  <line
+     x1="920"
+     y1="310"
+     x2="920"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line512" />
+  <line
+     x1="920"
+     y1="250"
+     x2="920"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line514" />
+  <line
+     x1="920"
+     y1="210"
+     x2="920"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line516" />
+  <text
+     x="892"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text518">44</text>
+  <line
+     x1="903"
+     y1="250"
+     x2="920"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line520" />
+  <circle
+     cx="900"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse522"
+     r="3" />
+  <line
+     x1="920"
+     y1="260"
+     x2="920"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line524" />
+  <line
+     x1="920"
+     y1="305"
+     x2="920"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line526" />
+  <path
+     d="m 920,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path528" />
+  <text
+     x="906"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text530">10 kΩ</text>
+  <line
+     x1="820"
+     y1="310"
+     x2="820"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line532" />
+  <line
+     x1="820"
+     y1="250"
+     x2="820"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line534" />
+  <line
+     x1="820"
+     y1="210"
+     x2="820"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line536" />
+  <text
+     x="792"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text538">42</text>
+  <line
+     x1="803"
+     y1="250"
+     x2="820"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line540" />
+  <circle
+     cx="800"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse542"
+     r="3" />
+  <line
+     x1="820"
+     y1="260"
+     x2="820"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line544" />
+  <line
+     x1="820"
+     y1="305"
+     x2="820"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line546" />
+  <path
+     d="m 820,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path548" />
+  <text
+     x="806"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text550">10 kΩ</text>
+  <line
+     x1="720"
+     y1="310"
+     x2="720"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line552" />
+  <line
+     x1="720"
+     y1="250"
+     x2="720"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line554" />
+  <line
+     x1="720"
+     y1="210"
+     x2="720"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line556" />
+  <text
+     x="692"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text558">40</text>
+  <line
+     x1="703"
+     y1="250"
+     x2="720"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line560" />
+  <circle
+     cx="700"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse562"
+     r="3" />
+  <line
+     x1="720"
+     y1="260"
+     x2="720"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line564" />
+  <line
+     x1="720"
+     y1="305"
+     x2="720"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line566" />
+  <path
+     d="m 720,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path568" />
+  <text
+     x="706"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text570">10 kΩ</text>
+  <line
+     x1="620"
+     y1="310"
+     x2="620"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line572" />
+  <line
+     x1="620"
+     y1="250"
+     x2="620"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line574" />
+  <line
+     x1="620"
+     y1="210"
+     x2="620"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line576" />
+  <text
+     x="592"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text578">38</text>
+  <line
+     x1="603"
+     y1="250"
+     x2="620"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line580" />
+  <circle
+     cx="600"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse582"
+     r="3" />
+  <line
+     x1="620"
+     y1="260"
+     x2="620"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line584" />
+  <line
+     x1="620"
+     y1="305"
+     x2="620"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line586" />
+  <path
+     d="m 620,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path588" />
+  <text
+     x="606"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text590">10 kΩ</text>
+  <line
+     x1="520"
+     y1="310"
+     x2="520"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line592" />
+  <line
+     x1="520"
+     y1="250"
+     x2="520"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line594" />
+  <line
+     x1="520"
+     y1="210"
+     x2="520"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line596" />
+  <text
+     x="492"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text598">36</text>
+  <line
+     x1="503"
+     y1="250"
+     x2="520"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line600" />
+  <circle
+     cx="500"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse602"
+     r="3" />
+  <line
+     x1="520"
+     y1="260"
+     x2="520"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line604" />
+  <line
+     x1="520"
+     y1="305"
+     x2="520"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line606" />
+  <path
+     d="m 520,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path608" />
+  <text
+     x="506"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text610">10 kΩ</text>
+  <line
+     x1="420"
+     y1="310"
+     x2="420"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line612" />
+  <line
+     x1="420"
+     y1="250"
+     x2="420"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line614" />
+  <line
+     x1="420"
+     y1="210"
+     x2="420"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line616" />
+  <text
+     x="392"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text618">34</text>
+  <line
+     x1="403"
+     y1="250"
+     x2="420"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line620" />
+  <circle
+     cx="400"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse622"
+     r="3" />
+  <line
+     x1="420"
+     y1="260"
+     x2="420"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line624" />
+  <line
+     x1="420"
+     y1="305"
+     x2="420"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line626" />
+  <path
+     d="m 420,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path628" />
+  <text
+     x="406"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text630">10 kΩ</text>
+  <line
+     x1="320"
+     y1="310"
+     x2="320"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line632" />
+  <line
+     x1="320"
+     y1="250"
+     x2="320"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line634" />
+  <line
+     x1="320"
+     y1="210"
+     x2="320"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line636" />
+  <text
+     x="292"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text638">32</text>
+  <line
+     x1="303"
+     y1="250"
+     x2="320"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line640" />
+  <circle
+     cx="300"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse642"
+     r="3" />
+  <line
+     x1="320"
+     y1="260"
+     x2="320"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line644" />
+  <line
+     x1="320"
+     y1="305"
+     x2="320"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line646" />
+  <path
+     d="m 320,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path648" />
+  <text
+     x="306"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text650">10 kΩ</text>
+  <line
+     x1="220"
+     y1="310"
+     x2="220"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line652" />
+  <line
+     x1="220"
+     y1="250"
+     x2="220"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line654" />
+  <line
+     x1="220"
+     y1="210"
+     x2="220"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line656" />
+  <text
+     x="192"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text658">30</text>
+  <line
+     x1="203"
+     y1="250"
+     x2="220"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line660" />
+  <circle
+     cx="200"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse662"
+     r="3" />
+  <line
+     x1="220"
+     y1="260"
+     x2="220"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line664" />
+  <line
+     x1="220"
+     y1="305"
+     x2="220"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line666" />
+  <path
+     d="m 220,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path668" />
+  <text
+     x="206"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text670">10 kΩ</text>
+  <line
+     x1="120"
+     y1="150"
+     x2="1320"
+     y2="150"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line672" />
+  <line
+     x1="130"
+     y1="320"
+     x2="1320"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line674" />
+  <line
+     x1="120"
+     y1="310"
+     x2="120"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line676" />
+  <line
+     x1="120"
+     y1="250"
+     x2="120"
+     y2="260"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line678" />
+  <line
+     x1="120"
+     y1="210"
+     x2="120"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line680" />
+  <text
+     x="92"
+     y="250"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text682">28</text>
+  <line
+     x1="103"
+     y1="250"
+     x2="120"
+     y2="250"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line684" />
+  <circle
+     cx="100"
+     cy="250"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse686"
+     r="3" />
+  <line
+     x1="120"
+     y1="150"
+     x2="120"
+     y2="180"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line688" />
+  <line
+     x1="90"
+     y1="150"
+     x2="120"
+     y2="150"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line690" />
+  <line
+     x1="620"
+     y1="180"
+     x2="620"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line692" />
+  <line
+     x1="620"
+     y1="209"
+     x2="620"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line694" />
+  <circle
+     cx="620"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse696"
+     r="3" />
+  <circle
+     cx="620"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse698"
+     r="3" />
+  <line
+     x1="618"
+     y1="187"
+     x2="612"
+     y2="204"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line700" />
+  <line
+     x1="720"
+     y1="180"
+     x2="720"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line702" />
+  <line
+     x1="720"
+     y1="209"
+     x2="720"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line704" />
+  <circle
+     cx="720"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse706"
+     r="3" />
+  <circle
+     cx="720"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse708"
+     r="3" />
+  <line
+     x1="718"
+     y1="187"
+     x2="712"
+     y2="204"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line710" />
+  <line
+     x1="120"
+     y1="180"
+     x2="120"
+     y2="181"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line712" />
+  <line
+     x1="120"
+     y1="209"
+     x2="120"
+     y2="210"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line714" />
+  <circle
+     cx="120"
+     cy="184"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse716"
+     r="3" />
+  <circle
+     cx="120"
+     cy="206"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse718"
+     r="3" />
+  <line
+     x1="112"
+     y1="183"
+     x2="112"
+     y2="207"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line720" />
+  <line
+     x1="106"
+     y1="189"
+     x2="106"
+     y2="201"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line722" />
+  <line
+     x1="106"
+     y1="195"
+     x2="112"
+     y2="195"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line724" />
+  <text
+     x="62"
+     y="150"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text726">5V Pin</text>
+  <line
+     x1="73"
+     y1="150"
+     x2="90"
+     y2="150"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line728" />
+  <circle
+     cx="70"
+     cy="150"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse730"
+     r="3" />
+  <line
+     x1="220"
+     y1="390"
+     x2="220"
+     y2="360"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line732" />
+  <path
+     d="m 220,368 m -8,0 h 16 m -8,0 8,15 h -16 l 8,-15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path734" />
+  <path
+     d="m 220,370 m 11,2 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path736" />
+  <path
+     d="m 220,370 m 4,-4 8,-8 m 1,-1 -2,4 -2,-2 4,-2 -2,4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path738" />
+  <line
+     x1="120"
+     y1="320"
+     x2="130"
+     y2="320"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line740" />
+  <line
+     x1="118"
+     y1="320"
+     x2="118"
+     y2="326"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line742" />
+  <line
+     x1="110"
+     y1="326"
+     x2="126"
+     y2="326"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line744" />
+  <line
+     x1="113"
+     y1="332"
+     x2="123"
+     y2="332"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line746" />
+  <line
+     x1="116"
+     y1="338"
+     x2="120"
+     y2="338"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line748" />
+  <line
+     x1="120"
+     y1="260"
+     x2="120"
+     y2="265"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line750" />
+  <line
+     x1="120"
+     y1="305"
+     x2="120"
+     y2="310"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line752" />
+  <path
+     d="m 120,265 v 2 l -7,3 14,6 -14,6 14,6 -14,6 14,6 -7,3 v 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path754" />
+  <text
+     x="106"
+     y="285"
+     style="font-size:11px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text756">10 kΩ</text>
+  <circle
+     cx="1320"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse758"
+     r="2" />
+  <circle
+     cx="1220"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse760"
+     r="2" />
+  <circle
+     cx="1120"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse762"
+     r="2" />
+  <circle
+     cx="1020"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse764"
+     r="2" />
+  <circle
+     cx="920"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse766"
+     r="2" />
+  <circle
+     cx="820"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse768"
+     r="2" />
+  <circle
+     cx="720"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse770"
+     r="2" />
+  <circle
+     cx="620"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse772"
+     r="2" />
+  <circle
+     cx="520"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse774"
+     r="2" />
+  <circle
+     cx="420"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse776"
+     r="2" />
+  <circle
+     cx="320"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse778"
+     r="2" />
+  <circle
+     cx="220"
+     cy="320"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse780"
+     r="2" />
+  <circle
+     cx="1220"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse782"
+     r="2" />
+  <circle
+     cx="1120"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse784"
+     r="2" />
+  <circle
+     cx="1020"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse786"
+     r="2" />
+  <circle
+     cx="920"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse788"
+     r="2" />
+  <circle
+     cx="820"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse790"
+     r="2" />
+  <circle
+     cx="520"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse792"
+     r="2" />
+  <circle
+     cx="620"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse794"
+     r="2" />
+  <circle
+     cx="720"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse796"
+     r="2" />
+  <circle
+     cx="420"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse798"
+     r="2" />
+  <circle
+     cx="320"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse800"
+     r="2" />
+  <circle
+     cx="220"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse802"
+     r="2" />
+  <circle
+     cx="1320"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse804"
+     r="2" />
+  <circle
+     cx="1220"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse806"
+     r="2" />
+  <circle
+     cx="1120"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse808"
+     r="2" />
+  <circle
+     cx="1020"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse810"
+     r="2" />
+  <circle
+     cx="920"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse812"
+     r="2" />
+  <circle
+     cx="820"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse814"
+     r="2" />
+  <circle
+     cx="720"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse816"
+     r="2" />
+  <circle
+     cx="620"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse818"
+     r="2" />
+  <circle
+     cx="520"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse820"
+     r="2" />
+  <circle
+     cx="420"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse822"
+     r="2" />
+  <circle
+     cx="320"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse824"
+     r="2" />
+  <circle
+     cx="220"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse826"
+     r="2" />
+  <circle
+     cx="120"
+     cy="150"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse828"
+     r="2" />
+  <circle
+     cx="120"
+     cy="250"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2"
+     id="ellipse830"
+     r="2" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="184.23448"
+     y="34.517899"
+     id="text861"><tspan
+       sodipodi:role="line"
+       id="tspan859"
+       x="184.23448"
+       y="34.517899"
+       style="font-size:16px">Momentary Switch</tspan></text>
+  <circle
+     cx="172.8125"
+     cy="62.203125"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse865"
+     r="3" />
+  <circle
+     cx="172.8125"
+     cy="84.203125"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse867"
+     r="3" />
+  <line
+     x1="170.8125"
+     y1="65.203125"
+     x2="164.8125"
+     y2="82.203125"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line869" />
+  <circle
+     cx="172.10938"
+     cy="18.84375"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse877"
+     r="3" />
+  <circle
+     cx="172.10938"
+     cy="40.84375"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2"
+     id="ellipse879"
+     r="3" />
+  <line
+     x1="164.10938"
+     y1="17.84375"
+     x2="164.10938"
+     y2="41.84375"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line881" />
+  <line
+     x1="158.10938"
+     y1="23.84375"
+     x2="158.10938"
+     y2="35.84375"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line883" />
+  <line
+     x1="158.10938"
+     y1="29.84375"
+     x2="164.10938"
+     y2="29.84375"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line885" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="184.23448"
+     y="74.517899"
+     id="text889"><tspan
+       sodipodi:role="line"
+       id="tspan887"
+       x="184.23448"
+       y="74.517899"
+       style="font-size:16px">Latching Switch</tspan></text>
+  <text
+     x="140"
+     y="350"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text891">Gnd Pin</text>
+</svg>
