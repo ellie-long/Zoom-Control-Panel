@@ -65,6 +65,8 @@
   * The resistors can be soldered directly on each button between the negative side of the LED and the 'C' (common) pin of the switch
   * For the 5V-side, make sure that you use the 'NO' (Normally Open) pin of the switch
   * Don't forget to include the 10k Ohm resistor on the mushroom button, and make sure that it's wired to the 'green' side so that the switch is closed when the button is pressed. You can check that it's on the correct side using a multimeter.
+![Wiring Diagram](https://github.com/ellie-long/Zoom-Control-Panel/blob/main/Wiring/circuitDiagram.png?raw=true)
+![Nearly completed wiring](https://github.com/ellie-long/Zoom-Control-Panel/blob/main/Photos/Buttons%20Wired.jpg?raw=true)
 * Once the wiring is complete, attach the PCB to the Arduino and place it inside of the panel. 
 * Carefully place the bottom 4 M3 screws into position and screw them in. (if you can only get the front 2 in, that will also work fine)
 * Gently push the button panel into place and attach it with the 4 remaining M3 screws. 
