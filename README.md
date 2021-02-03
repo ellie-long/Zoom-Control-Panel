@@ -68,6 +68,8 @@
   
   
 ![Wiring Diagram](https://github.com/ellie-long/Zoom-Control-Panel/blob/main/Wiring/circuitDiagram.png?raw=true)
+
+
 ![Nearly completed wiring](https://github.com/ellie-long/Zoom-Control-Panel/blob/main/Photos/Buttons%20Wired.jpg?raw=true)
 * Once the wiring is complete, attach the PCB to the Arduino and place it inside of the panel. 
 * Carefully place the bottom 4 M3 screws into position and screw them in. (if you can only get the front 2 in, that will also work fine)
@@ -86,4 +88,4 @@
 * Once the software is uploaded, you should be able to use your new Zoom Control Panel! If you run into issues, you can use the on-screen keyboard to make sure that the modifier keys are being input correctly, or open a Zoom channel to test out your new control box.
 
 # Attributions
-This project was inspired by https://github.com/lanewinfield/zoomout and https://www.instructables.com/Zoom-Control-Box/
+This project was inspired by https://github.com/lanewinfield/zoomout and https://www.instructables.com/Zoom-Control-Box/, and would not have been possible to finish using the Arduinos I had sitting around if not for https://github.com/NicoHood/HoodLoader2/
