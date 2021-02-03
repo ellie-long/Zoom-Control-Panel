@@ -1,3 +1,4 @@
+![Zoom Control Panel](https://github.com/ellie-long/Zoom-Control-Panel/blob/main/Photos/ControlPanel.jpg?raw=true)
 # Zoom Control Panel
  A push-button control panel for Zoom
  
