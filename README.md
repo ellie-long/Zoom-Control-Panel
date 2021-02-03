@@ -41,6 +41,8 @@
  These files have been designed to not require supports when printing, though you may want to use a brim. I printed it on a Prusa Mk3S+ using PETG with 0.20mm layer heights.
  
  Once printed, M3 nuts can be pushed into place for each of the 8 screw-holes. If they fall out, you can use a small amount of superglue around the edge to hold them into place.
+ 
+ The CAD design was built in FreeCAD, and the original FreeCAD files are included under 3D Print/CAD Files if you wish to modify them.
 
 # Printing and Installing Button Icons
  * In the Icons folder you can find a \*.svg and \*.pdf of icons that can be printed onto transparent sticker 'paper', carefully cut out, and adhered to the push buttons.
