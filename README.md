@@ -52,6 +52,9 @@
  * Carefully place the sticker onto the white rectangle, then reassemble the button
    * Make sure to check that the button pushes and released properly. If not, the button may have been inserted backwards. 
      * Try to keep track of which buttons each parts came from, as mixing them can lead to buttons sticking.
+ * As printed, the buttons are:
+   * Mute Me | Video | Share Screen | Record | Gallery/Speaker | Chat
+   * Mute All | Camera | Pause Screen Share | Pause Recording | Reset | Participants
 
 # Wiring and Assembly
 * Before spending a lot of time wiring, first make sure to install HoodLoader2 on your Arduino so that you can use it as a keyboard. Follow the Hardware and Software Installations in their wiki before going further: https://github.com/NicoHood/HoodLoader2/wiki/Hardware-Installation
