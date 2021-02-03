@@ -80,3 +80,6 @@
     * If debugging, you can uncomment the Serial.print(allData) line and run the serial monitor to make sure your buttons are working correctly. This should only be done before uploading the HID-Bridge to the 16u, and make sure to comment that line and re-upload this code before uploading HID-Bridge or else some strange effects may occur by flooding the serial port with text
   * HID-Bridge_USB.ino allows the Arduino Mega 2560 to be used as a keyboard input device. This software can only be loaded if HoodLoader2 is installed, and should be uploaded to the 16u chip -- NOT the Mega 2560 chip
 * Once the software is uploaded, you should be able to use your new Zoom Control Panel! If you run into issues, you can use the on-screen keyboard to make sure that the modifier keys are being input correctly, or open a Zoom channel to test out your new control box.
+
+# Attributions
+This project was inspired by https://github.com/lanewinfield/zoomout and https://www.instructables.com/Zoom-Control-Box/
