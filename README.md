@@ -38,4 +38,6 @@
  These files have been designed to not require supports when printing, though you may want to use a brim. I printed it on a Prusa Mk3S+ using PETG with 0.20mm layer heights.
 
 # Wiring
-* Once the buttons
+* Before spending a lot of time wiring, first make sure to install HoodLoader2 on your Arduino so that you can use it as a keyboard. Follow the Hardware and Software Installations in their wiki before going further: https://github.com/NicoHood/HoodLoader2/wiki/Hardware-Installation
+* Install each of the buttons onto the 3D printed Button Panel
+ * I found it easiest to have the flat side of the buttons flush against the panel and to install the rubber o-rings on the back side before putting in the square washers and screwing them in place
