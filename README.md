@@ -53,7 +53,7 @@
    * Make sure to check that the button pushes and released properly. If not, the button may have been inserted backwards. 
      * Try to keep track of which buttons each parts came from, as mixing them can lead to buttons sticking.
  * As printed, the buttons are:
-   * Mute Me | Video | Share Screen | Record | Gallery/Speaker | Chat
+   * Mute Me | Video | Share Screen | Record | Gallery/Speaker View | Chat
    * Mute All | Camera | Pause Screen Share | Pause Recording | Reset | Participants
 
 # Wiring and Assembly
