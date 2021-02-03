@@ -204,14 +204,14 @@ void loop()
     {
       digitalWrite(muteAllLED, HIGH);
       lastMuteAll = 1;
-//      Serial.write('m');
-      Serial.write('a');
+      Serial.write('m');
+//      Serial.write('a');
     } 
     else{
       digitalWrite(muteAllLED, LOW);
       lastMuteAll = 0;
-//      Serial.write('m');
-      Serial.write('a');
+      Serial.write('m');
+//      Serial.write('a');
     }  
   }
   
